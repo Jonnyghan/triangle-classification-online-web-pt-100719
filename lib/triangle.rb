@@ -35,4 +35,4 @@ class Triangle
 end
 
 
-bruh = Triangle.new(1,2,3)
+bruh = Triangle.new(1,2,2)
