@@ -35,5 +35,5 @@ class Triangle
 end
 
 
-bruh = Triangle.new(1,2,2)
+bruh = Triangle.new(1,2,0)
 bruh.kind
