@@ -36,3 +36,4 @@ end
 
 
 bruh = Triangle.new(1,2,2)
+bruh.kind
